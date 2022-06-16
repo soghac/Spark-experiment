@@ -8,7 +8,7 @@ First, on your terminal go to your path that the folder test_with_2_3_4 worker i
 
 Then run the command:
 
-2)source venv /bin/activate
+2)source venv/bin/activate
 
 Then install the required packages by running the command:
 
